@@ -241,14 +241,14 @@
                                     <h6 class="title-menu">Universities</h6>
                                     <ul class="mm-list">
                                         <li>
-                                            <a href='universitydetails/universitya17a.html?type=ddmCMsxJZgXH2S/m0uMOKQ=='>
+                                            <a href='https://www.ugc.ac.in/universitydetails/university?type=ddmCMsxJZgXH2S/m0uMOKQ=='>
                                                 <i class="fa fa-long-arrow-right"
                                                    aria-hidden="true"></i>
                                                 Central Universities
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='universitydetails/university33fe.html?type=LZ1FUMk6U2JWGNLvhWfVSA=='>
+                                            <a href='https://www.ugc.ac.in/universitydetails/university?type=LZ1FUMk6U2JWGNLvhWfVSA=='>
                                                 <i class="fa fa-long-arrow-right"
                                                    aria-hidden="true"></i>
                                                 State Universities
@@ -256,7 +256,7 @@
                                         </li>
 
                                         <li>
-                                            <a href='universitydetails/university2842.html?type=UCL6fMspL2LJS89kv++N3A=='>
+                                            <a href='https://www.ugc.ac.in/universitydetails/university?type=UCL6fMspL2LJS89kv++N3A=='>
                                                 <i class="fa fa-long-arrow-right"
                                                    aria-hidden="true"></i>
                                                 Deemed to be Universities
@@ -264,14 +264,14 @@
                                         </li>
 
                                         <li>
-                                            <a href='universitydetails/university732b.html?type=0wBmFB1Rb4JGVzq9UP/iOg=='>
+                                            <a href='https://www.ugc.ac.in/universitydetails/university?type=0wBmFB1Rb4JGVzq9UP/iOg=='>
                                                 <i class="fa fa-long-arrow-right"
                                                    aria-hidden="true"></i>
                                                 State Private Universities
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='universitydetails/Fakeuniversity.html'>
+                                            <a href='https://www.ugc.ac.in/universitydetails/Fakeuniversity'>
                                                 <i class="fa fa-long-arrow-right"
                                                    aria-hidden="true"></i>
                                                 Fake Universities
@@ -286,7 +286,7 @@
                                     <ul class="mm-list">
 
                                         <li>
-                                            <a href='colleges.html'>
+                                            <a href='https://www.ugc.ac.in/colleges'>
                                                 <i class="fa fa-long-arrow-right"
                                                    aria-hidden="true"></i>
                                                 Colleges (12(B)/2(f))
@@ -294,7 +294,7 @@
                                         </li>
 
                                         <li>
-                                            <a href='colleges/Autonomous_Colleges.html'>
+                                            <a href='https://www.ugc.ac.in/colleges/Autonomous_Colleges'>
                                                 <i class="fa fa-long-arrow-right"
                                                    aria-hidden="true"></i>
                                                 Autonomous Colleges
@@ -366,13 +366,13 @@
                         <i class="fa fa-book"></i> e-Publications
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+                        <li><a class="dropdown-item" href="https://www.ugc.ac.in/publication/ebook"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                                 e-Books</a></li>
-                        <li><a class="dropdown-item" href="#"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+                        <li><a class="dropdown-item" href="https://www.ugc.ac.in/publication/Annual_Reports"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                                 Annual Reports/ Annual Accounts</a></li>
-                        <li><a class="dropdown-item" href="#"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+                        <li><a class="dropdown-item" href="https://www.ugc.ac.in/publication/ugc_pressrelease"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                                 Press Release</a></li>
-                        <li><a class="dropdown-item" href="#"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+                        <li><a class="dropdown-item" href="https://www.ugc.ac.in/publication/Other_Publications"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                                 Archives Publications</a></li>
                     </ul>
                 </li>

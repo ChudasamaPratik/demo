@@ -99,7 +99,7 @@
                             </p>
                         </div>
                         <div class="text-container aos-init aos-animate" data-aos="fade-right">
-                            <a href="Home/AboutUGC.html" class="button btn btn-sm btn-red radius25">Read More</a>
+                            <a href="https://www.ugc.ac.in/Home/AboutUGC" class="button btn btn-sm btn-red radius25">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,6 @@
                                         <i class="fa fa-laptop" aria-hidden="true"></i>
                                         <div class="text-center">
                                             <p>
-
                                                 e-Governance
                                                 <br>
                                                 @UGC
@@ -283,7 +282,7 @@
                                             <br>
                                             <div class="buttons mt_30">
                                                 <center>
-                                                    <a data-animation-in="zoomIn" href="Home/egovernance.html"
+                                                    <a data-animation-in="zoomIn" href="https://www.ugc.ac.in/Home/egovernance"
                                                        class="button btn btn-md btn-default btn-dark radius25">View
                                                         All</a>
                                                 </center>
@@ -636,7 +635,7 @@
             </div>
         </div>
         <div class="container text-center mb-3">
-            <a data-animation-in="zoomIn" href="Star_Performer.html"
+            <a data-animation-in="zoomIn" href="https://www.ugc.ac.in/Star_Performer"
                class="button btn btn-md btn-default btn-dark radius25">View All</a>
         </div>
     </div>
@@ -938,7 +937,7 @@
                             </div>
                         </div>
                         <div class="buttons">
-                            <a data-animation-in="zoomIn" href="Notices.html"
+                            <a data-animation-in="zoomIn" href="https://www.ugc.ac.in/Notices"
                                class="button btn btn-md btn-default btn-outline-dark delay4 radius25">Read More</a>
                         </div>
                     </div>
@@ -1274,7 +1273,7 @@
                         </div>
 
                         <div class="buttons">
-                            <a data-animation-in="zoomIn" href="Circulars.html"
+                            <a data-animation-in="zoomIn" href="https://www.ugc.ac.in/Circulars"
                                class="button btn btn-md btn-default btn-outline-dark delay4 radius25">Read More</a>
                         </div>
                     </div>
@@ -1588,7 +1587,7 @@
                             </marquee>
                         </div>
                         <div class="buttons">
-                            <a data-animation-in="zoomIn" href="incorp.html"
+                            <a data-animation-in="zoomIn" href="https://www.ugc.ac.in/incorp"
                                class="button btn btn-md btn-default btn-outline-dark delay4 radius25">Read More</a>
                         </div>
                     </div>
@@ -1851,61 +1850,98 @@
         <div class="marquee-container">
             <div class="marquee-track marquee-left">
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/datagov_logo.png')}}"/>
+                    <a href="https://data.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/datagov_logo.png')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/DEB.jpg')}}"/>
+                    <a href="https://deb.ac.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/DEB.jpg')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/dialgov-logo.png')}}"/>
+                    <a href="https://dial.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/dialgov-logo.png')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/digital_india.png')}}"/>
+                    <a href="https://www.digitalindia.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/digital_india.png')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/E-samadhan_Logo_New.png')}}"/>
+                    <a href="https://e-samadhan.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/E-samadhan_Logo_New.png')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/india_gov_logo.png')}}"/>
+                    <a href="https://www.india.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/india_gov_logo.png')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/logo-1.jpg')}}"/>
+                    <a href="https://swayam.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/logo-1.jpg')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/logo-2.jpg')}}"/>
+                    <a href="https://www.swayamprabha.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/logo-2.jpg')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/logo-3.jpg')}}"/>
+                    <a href="https://epgp.inflibnet.ac.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/logo-3.jpg')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/logo-4.jpg')}}"/>
+                    <a href="https://nad.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/logo-4.jpg')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/logo-5.jpg')}}"/>
+                    <a href="https://aishe.nic.in/aishe/home" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/logo-5.jpg')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/m1.png')}}"/>
+                    <a href="https://ugcmoocs.inflibnet.ac.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/m1.png')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/my_gov_logo.png')}}"/>
+                    <a href="https://www.mygov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/my_gov_logo.png')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/my_visit.png')}}"/>
+                    <a href="https://myvisit.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/my_visit.png')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/NTA.jpg')}}"/>
+                    <a href="https://www.nta.ac.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/NTA.jpg')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/onlineservice_logo.png')}}"/>
+                    <a href="https://services.india.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/onlineservice_logo.png')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/rti_logo.png')}}"/>
+                    <a href="https://rti.gov.in/" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/rti_logo.png')}}"/>
+                    </a>
                 </div>
                 <div class="scroll-card">
-                    <img class="marquee-logo" src="{{asset('assets/img/mainpage/UAMP.jpg')}}"/>
+                    <a href="#" target="_blank">
+                        <img class="marquee-logo" src="{{asset('assets/img/mainpage/UAMP.jpg')}}"/>
+                    </a>
                 </div>
             </div>
         </div>
     </div>
+
 
 @endsection
